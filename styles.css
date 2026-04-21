@@ -93,15 +93,15 @@ body {
     text-align: center;
 }
 
-/* Hapsen Tech Section */
-.hapsen-section {
+/* Personal Section */
+.personal-section {
     margin-bottom: 2.5rem;
     padding-bottom: 2.5rem;
     border-bottom: 0.125rem solid #e5e7eb;
 }
 
-/* CodeSeoul Section */
-.codeseoul-section {
+/* Arbor Section */
+.arbor-section {
     margin-top: 2.5rem;
     padding-top: 2.5rem;
     margin-bottom: 2.5rem;
@@ -110,8 +110,8 @@ body {
     border-bottom: 0.125rem solid #e5e7eb;
 }
 
-/* Personal Section */
-.personal-section {
+/* CodeSeoul Section */
+.codeseoul-section {
     margin-top: 2.5rem;
     padding-top: 2.5rem;
     border-top: 0.125rem solid #e5e7eb;
